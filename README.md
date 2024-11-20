@@ -35,11 +35,11 @@ A Convolutional Neural Network (CNN) model is trained to classify samples based 
 The model achieves the following accuracies:
 
 - **MFCC Features:**
-    - Validation Accuracy: 0.8952
-    - Test Accuracy: 0.8450
-- **LPC Features:**
     - Validation Accuracy: 0.9047
-    - Test Accuracy: 0.8661
+    - Test Accuracy: 0.8591
+- **LPC Features:**
+    - Validation Accuracy: 0.8857
+    - Test Accuracy: 0.8169
 ## Some of the Requirements
 
 - Python 3
